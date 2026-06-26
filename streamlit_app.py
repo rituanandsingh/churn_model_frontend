@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
-API_URL = "https://your-app-name.onrender.com/predict"  # ← REPLACE THIS
+API_URL = https://customer-churn-prediction-kyou.onrender.com  # ← REPLACE THIS
 
 st.set_page_config(page_title="Customer Churn Predictor", page_icon="📉", layout="centered")
 st.title("📉 Customer Churn Predictor")
